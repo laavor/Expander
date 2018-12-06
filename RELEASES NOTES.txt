@@ -1,1 +1,1 @@
-InitialVersion
+Fix (started working in Edge browser), new functionality can create multiple Expander on one page.
